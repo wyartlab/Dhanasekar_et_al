@@ -1,0 +1,9 @@
+﻿File_name,Trial,Condition,I (pA),V (mV),resistance
+140524_F1_C1,T1,Pre,10,0.89,89
+,T1,Post,10,0.89,89
+,T3,Pre,10,0.98,98
+,T3,Post,10,0.98,98
+,T4,Pre,10,0.92,92
+,T4,Post,10,0.92,92
+150424_F1_C1,T1,Pre,10,0.98,98
+,T2,Post,10,0.98,98

@@ -1,0 +1,17 @@
+Comparison,Parameter,Statistic,p-value
+Control Pre vs Post,Average IBI (s),0.12976190476190477,0.8269168449866113
+Control Pre vs Post,Bout Duration (s),0.2369047619047619,0.16119868434277046
+Control Pre vs Post,Swim Percentage (%),0.1111111111111111,0.7695469627551301
+Control Pre vs Post,Bout Frequency (bouts/s),0.08333333333333333,0.9658981488800277
+Opsin Pre vs Post,Average IBI (s),0.32169117647058826,0.01491483206260086
+Opsin Pre vs Post,Bout Duration (s),0.2417279411764706,0.1227122009662611
+Opsin Pre vs Post,Swim Percentage (%),0.35185185185185186,2.49336035727705e-06
+Opsin Pre vs Post,Bout Frequency (bouts/s),0.2777777777777778,0.00044797019744661717
+Pre control vs opsin,Average IBI (s),0.11875,0.8356042098601074
+Pre control vs opsin,Bout Duration (s),0.39375,0.0006375297079206263
+Pre control vs opsin,Swim Percentage (%),0.2175925925925926,0.02988931094043798
+Pre control vs opsin,Bout Frequency (bouts/s),0.046296296296296294,0.9999594065820637
+Post control vs opsin,Average IBI (s),0.28291316526610644,0.07769399031330805
+Post control vs opsin,Bout Duration (s),0.27450980392156865,0.09380294455278596
+Post control vs opsin,Swim Percentage (%),0.2777777777777778,0.002120353848286726
+Post control vs opsin,Bout Frequency (bouts/s),0.26851851851851855,0.0033268407062087934
